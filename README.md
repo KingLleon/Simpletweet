@@ -54,7 +54,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the major issues was displaying the Tweet layout to the user and after all the work to get the tweet to display the user image profile picture doesn't appear.
 
 ## Open-source libraries used
 
